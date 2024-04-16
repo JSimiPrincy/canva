@@ -1,0 +1,28 @@
+
+{
+  "caption": {
+    "text": "Sample caption text",
+    "position": {
+      "x": 50,
+      "y": 50
+    },
+    "font_size": 44
+  },
+
+  "cta": {
+    "text": "Call to Action"
+  },
+
+  "image_mask": {
+    "x": 56,
+    "y": 442,
+    "width": 970,
+    "height": 600
+  },
+
+  "urls": {
+    "mask": "https://example.com/mask.png",
+    "stroke": "https://example.com/stroke.png",
+    "design_pattern": "https://example.com/pattern.png"
+  }
+}
