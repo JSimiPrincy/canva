@@ -18,7 +18,7 @@ const store = createStore({
   // but it will be good if you can keep it for Polotno project support
   showCredit: true,
 });
-const page = store.addPage();
+
 
 export const App = ({ store }) => {
   return (
